@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+scikit-learn
+pyod
+gradio
+pandas
+numpy
+detoxify
+textstat
+fastapi
+uvicorn
+joblib
