@@ -51,7 +51,7 @@ This project builds a full-stack pipeline that:
 
 ## 📦 Setup Instructions
 🔧 1. Install Dependencies
-- git clone https://github.com/yourusername/community-rating-system.git
+- git clone https://github.com/2100031416-Ashok-Kumar/community-rating-system.git
 - cd community-rating-system
 - python -m venv env
 - source env/bin/activate  # or .\env\Scripts\activate on Windows
